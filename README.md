@@ -60,4 +60,4 @@ Thanks to all of these people for making and letting me use their ports:
 - [slqnt](https://github.com/slqntdevss)
 - [SpanishFreddy](https://github.com/spanishfreddy)
 
-All the games here are hosted on my unblocked games website, [gn-math](https://gn-math.github.io), meant to be played online at school. If you have any suggestions for a game, join my [discord](https://discord.gg/D4c9VFYWyU)
+All the games here are hosted on my unblocked games website, meant to be played online at school. If you have any suggestions for a game, join my [discord](https://discord.gg/D4c9VFYWyU)
